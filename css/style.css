@@ -10,3 +10,13 @@
     color: black;
     opacity: .9;
 }
+
+.right
+{
+    float: right;
+}
+
+.left
+{
+    float: left;
+}
