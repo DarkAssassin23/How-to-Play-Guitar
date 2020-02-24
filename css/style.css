@@ -1,0 +1,12 @@
+.backcolor
+{
+    background-color: black;
+    color: skyblue;
+}
+
+.sidecolor
+{
+    background-color: skyblue;
+    color: black;
+    opacity: .9;
+}
